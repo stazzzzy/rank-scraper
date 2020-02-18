@@ -7,5 +7,5 @@ Auto-scrape player's ranks in your current game of LoL and post them to chat.
 ## Installation
 * Drag geckodriver.exe found in geckodriver/32-bit or 64-bit to your python directory
 * Run Install.bat
-* Change username in league_typebot.py to your own and save
+* Change username in lib/RankScraper.py to your own and save
 * Launch league_typebot.py
